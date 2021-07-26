@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="22347" started-at="2021-07-26T04:21:42Z" finished-at="2021-07-26T04:22:04Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="22347" started-at="2021-07-26T04:21:42Z" finished-at="2021-07-26T04:22:04Z">
+      <class name="com.test.WebDriverManagerDemo">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.test.WebDriverManagerDemo@57fffcd7]" name="setup" is-config="true" duration-ms="2048" started-at="2021-07-26T04:21:42Z" finished-at="2021-07-26T04:21:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="webDriverManagerTest()[pri:0, instance:com.test.WebDriverManagerDemo@57fffcd7]" name="webDriverManagerTest" duration-ms="4872" started-at="2021-07-26T04:21:44Z" finished-at="2021-07-26T04:21:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webDriverManagerTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.WebDriverManagerDemo@57fffcd7]" name="tearDown" is-config="true" duration-ms="710" started-at="2021-07-26T04:21:49Z" finished-at="2021-07-26T04:21:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.test.WebDriverManagerDemo@57fffcd7]" name="setup" is-config="true" duration-ms="1292" started-at="2021-07-26T04:21:49Z" finished-at="2021-07-26T04:21:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="webDriverManagerTest1()[pri:0, instance:com.test.WebDriverManagerDemo@57fffcd7]" name="webDriverManagerTest1" duration-ms="5307" started-at="2021-07-26T04:21:51Z" finished-at="2021-07-26T04:21:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webDriverManagerTest1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.WebDriverManagerDemo@57fffcd7]" name="tearDown" is-config="true" duration-ms="723" started-at="2021-07-26T04:21:56Z" finished-at="2021-07-26T04:21:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.test.WebDriverManagerDemo@57fffcd7]" name="setup" is-config="true" duration-ms="1237" started-at="2021-07-26T04:21:57Z" finished-at="2021-07-26T04:21:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="webDriverManagerTest3()[pri:0, instance:com.test.WebDriverManagerDemo@57fffcd7]" name="webDriverManagerTest3" duration-ms="5461" started-at="2021-07-26T04:21:58Z" finished-at="2021-07-26T04:22:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webDriverManagerTest3 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.WebDriverManagerDemo@57fffcd7]" name="tearDown" is-config="true" duration-ms="672" started-at="2021-07-26T04:22:03Z" finished-at="2021-07-26T04:22:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.WebDriverManagerDemo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
